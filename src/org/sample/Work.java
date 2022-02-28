@@ -10,4 +10,8 @@ public class Work {
 	{
 	System.out.println("My client id is " +id);
 	}
+	public void clientInfo(boolean gender) {
+		
+		System.out.println("My Client is a " +gender);
+	}
 }
