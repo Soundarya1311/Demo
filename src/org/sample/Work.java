@@ -10,4 +10,9 @@ public class Work {
 	{
 	System.out.println("My client id is " +id);
 	}
+	public void clientInfo(Long phnNo) {
+		
+		System.out.println("My Client phn No is " +phnNo);
+	}
 }
+
